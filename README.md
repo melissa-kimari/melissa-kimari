@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there, I'm Melissa 👋
 
-<!--
-**melissa-kimari/melissa-kimari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical & Electronics Engineering final year student with growing experience in embedded systems, wearable health technology, and Machine Learning(ML) on the edge. I enjoy building practical systems that combine hardware, software, and data to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🔭 What I'm Working On
+- A **spine posture monitoring system** using ESP32, Inertial Measurement Units(IMU), and real-time feedback mechanisms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+- Cybersecurity fundamentals  
+- Machine learning on edge devices (TinyML)
+
+### 👯 Collaboration Interests
+- Biomedical engineering projects  
+- Embedded systems and IoT  
+- Beginner-friendly cybersecurity tools or concepts
+
+### 💬 Ask Me About
+- ESP32 and sensor interfacing  
+- IMUs and posture tracking concepts  
+- Basic ML workflows  
+- Python data analysis  
+
+### 🤝 Looking For Guidance In
+- Building production-grade embedded ML models   
+- Structuring strong engineering portfolios
+
+### 📫 How to Reach Me
+**Email:** kimarimelissa@gmail.com  
+**LinkedIn:** www.linkedin.com/in/melissa-kimari-8670a4217
+
+### ⚡ Fun Fact
+- I speak German!
+
+
+
